@@ -3,9 +3,9 @@
  */
 #include <stdio.h>
 /**
- * main - Entry point
+ * 	main - Entry point
  *
- * return: 0 after printing the function
+ * 	return: 0 after printing the function
  */
 int main(void)
 {
