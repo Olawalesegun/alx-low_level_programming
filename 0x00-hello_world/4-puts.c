@@ -1,3 +1,6 @@
+/*
+ * @Auth :Olawalesegun
+ */
 #include <stdio.h>
 /**
  * main - Entry point
