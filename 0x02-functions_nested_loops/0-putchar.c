@@ -1,12 +1,11 @@
-#include <stdio.h>
+#include <main.h>
 /**
  * main - Entry
+ * 
  * return - Always success
- *
  */
-int _putchar(void)
+int main(void)
 {
-int;
-putchar("\n");
-return (0)
+putchar("_putchar\n");
+return (0);
 }
