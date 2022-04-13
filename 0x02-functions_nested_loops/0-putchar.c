@@ -2,13 +2,13 @@
 
 /**
  *
- *  * main - main bloack
+ * main - main bloack
  *
- *   * Description point - putchar in a new line
+ * Description point - putchar in a new line
  *
- *    * Return: this program return zero
+ * Return: this program return zero
  *
- *     */
+ */
 
 int main(void)
 
