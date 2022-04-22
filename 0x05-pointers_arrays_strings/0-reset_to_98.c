@@ -1,8 +1,8 @@
 /**
- *
- * * @n: An integer that inputs pointer
- *
- * */
+*
+* @n: An integer that inputs pointer
+*
+*/
 
 void reset_to_98(int *n)
 {
