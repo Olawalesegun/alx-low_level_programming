@@ -1,1 +1,1 @@
-This folder breaks down the intrinsic of pointers, arrays and strings
+Readme file 0x06-pointers_arrays_strings
