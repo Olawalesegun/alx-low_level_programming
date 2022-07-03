@@ -1,7 +1,8 @@
 #include <stdio.h>
-/*
- * main - Prints Programming is like building a multilingual puzzle
- * return: 0 after printing the function
+/**
+ * main - entry point
+ *
+ * return: 0 after printing the fuction
  */
 int main(void)
 {
