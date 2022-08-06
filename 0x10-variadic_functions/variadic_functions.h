@@ -1,4 +1,4 @@
-RADIC_FUNCTION_H
+#ifndef RADIC_FUNCTION_H
 #define VARADIC_FUNCTION_H
 
 int _putchar(char c);
