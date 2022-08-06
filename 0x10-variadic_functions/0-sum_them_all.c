@@ -13,7 +13,7 @@ int sum_them_all(const unsigned int n, ...)
 	int sum;
 
 	if (n == 0)
-	return (0);
+		return (0);
 	sum = 0;
 
 	/* init valist for the number of arguments */
@@ -21,7 +21,7 @@ int sum_them_all(const unsigned int n, ...)
 
 	/* loop through/access all arguments stored in the valist */
 	for (count = 0; count < n; count++)
-	sum += va_arg(my_nums, int);
+		sum += va_arg(my_nums, int);
 	va_end(my_nums);
 	return (sum);
 }
