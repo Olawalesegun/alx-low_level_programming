@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * * first - function executed before main
- * * Return: no return.
- * */
+ * first - function executed before main
+ * Return: no return.
+ */
 
 void __attribute__ ((constructor)) first()
 {
